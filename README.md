@@ -4,27 +4,24 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Full Stack Developer**🖥️, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kenshinryu69)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/kantoquetrue)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/khyncodefeel)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khynantoque@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Khyn_Antoque-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khynantoque)
+[![Telegram](https://img.shields.io/badge/-@KenshinRyu69-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kenshinryu69)
+[![HackerRank](https://img.shields.io/badge/-Kantoquetrue-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/kantoquetrue)
+[![Instagram](https://img.shields.io/badge/-khyncodefeel-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/khyncodefeel)
+[![Gmail](https://img.shields.io/badge/-khynantoque-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khynantoque@gmail.com)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/dev?id=5279535328944259736)
-
-<!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+![](https://komarev.com/ghpvc/?username=khynantoque&style=flat)
+[![Google Playstore](https://img.shields.io/badge/-Khynsoft-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/dev?id=5279535328944259736)
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
+* Learning Django:computer: Full Stack Web Development
+* Learning Android Development 📱 using Jetpack Compose on the side.
 * Looking forward to take a Flutter:calling: course in future.
 * 🔜
 
@@ -71,10 +68,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 </p>
 
