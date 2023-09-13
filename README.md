@@ -8,8 +8,7 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Khyn_Antoque-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khynantoque)
-[![Telegram](https://img.shields.io/badge/-@KenshinRyu69-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kenshinryu69)
-[![HackerRank](https://img.shields.io/badge/-Kantoquetrue-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/kantoquetrue)
+[![Telegram](https://img.shields.io/badge/-@gcashwallet-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gcashwallet)
 [![Instagram](https://img.shields.io/badge/-khyncodefeel-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/khyncodefeel)
 [![Gmail](https://img.shields.io/badge/-khynantoque-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khynantoque@gmail.com)
 
@@ -19,6 +18,7 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 
 ### 💼  Things that I'm currently working on: 
 * Learning Django:computer: Full Stack Web Development
+* Learning React, Tailwind, Node.js 🌐
 * Learning Android Development 📱 using Jetpack Compose on the side.
 * Looking forward to take a Flutter:calling: course in future.
 * 🔜
@@ -52,7 +52,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
 <br>
 <code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
