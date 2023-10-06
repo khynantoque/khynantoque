@@ -8,7 +8,6 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Khyn_Antoque-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khynantoque)
-[![Telegram](https://img.shields.io/badge/-@gcashwallet-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gcashwallet)
 [![Instagram](https://img.shields.io/badge/-khyncodefeel-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/khyncodefeel)
 [![Gmail](https://img.shields.io/badge/-khynantoque-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khynantoque@gmail.com)
 
@@ -17,14 +16,14 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 [![Google Playstore](https://img.shields.io/badge/-Khynsoft-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/dev?id=5279535328944259736)
 
 ### 💼  Things that I'm currently working on: 
-* Learning Django:computer: Full Stack Web Development
-* Learning React, Tailwind, Node.js 🌐
+* Learning Django:computer: REST Framework
+* Learning React.js, Tailwind, Material UI, Next.js 🌐
 * Learning Android Development 📱 using Jetpack Compose on the side.
-* Looking forward to take a Flutter:calling: course in future.
+* Looking forward to take a React Native:calling: course in future.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since I only have a part time job:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 6-8 hours a day with no distraction ( One or two day off a week. ) 
 * Read:newspaper: Dev and UI articles daily 
