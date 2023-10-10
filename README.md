@@ -18,7 +18,7 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 ### 💼  Things that I'm currently working on: 
 * Learning Django:computer: REST Framework
 * Learning React.js, Tailwind, Material UI, Next.js 🌐
-* Learning Android Development 📱 using Jetpack Compose on the side.
+* Learning Cybersecurity 🐱‍👤 on the side.
 * Looking forward to take a React Native:calling: course in future.
 * 🔜
 
