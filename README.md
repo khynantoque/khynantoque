@@ -8,7 +8,6 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Khyn_Antoque-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khynantoque)
-[![Instagram](https://img.shields.io/badge/-khyncodefeel-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/khyncodefeel)
 [![Gmail](https://img.shields.io/badge/-khynantoque-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khynantoque@gmail.com)
 
 <!-- Profile View Count -->
