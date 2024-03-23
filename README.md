@@ -15,19 +15,19 @@ I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real
 [![Google Playstore](https://img.shields.io/badge/-Khynsoft-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/dev?id=5279535328944259736)
 
 ### 💼  Things that I'm currently working on: 
-* Learning Django:computer: REST Framework
+* Learning Django :computer: REST Framework
 * Learning React.js, Tailwind, Material UI, Next.js 🌐
 * Learning Cybersecurity 🐱‍👤 on the side.
-* Looking forward to take a React Native:calling: course in future.
+* Looking forward to take a React Native :calling: course in future.
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since I only have a part time job:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since I only have a part time job :earth_asia:, and I’m having lots of spare time :watch:, I decided to take this time focusing on feeding more knowledge :books: to myself. I set a couple of self-challenges in order to push myself more further. :running: 
 
-* Learn to code:man_technologist: 6-8 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code :man_technologist: 6-8 hours a day with no distraction ( One or two day off a week. ) 
 * Read :newspaper: Dev and UI articles daily 
 * Workout :weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
+* Avoid spending too much time on Youtube Entertainment :skull_and_crossbones:
 * Adapting the minimalism life style
 * 🔜
 
@@ -62,5 +62,5 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 
 </p>
-
+<br/>
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
