@@ -1,66 +1,108 @@
-<!-- Greeting -->
-# Hey there! :wave::smiley:
+<!-- Profile README for github.com/khynantoque/khynantoque -->
 
-<!--Introduction -->
-I'm Khyn Antoque! I'm a **Full Stack Developer**🖥️, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<div align="center">
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Khyn_Antoque-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khynantoque)
-[![Gmail](https://img.shields.io/badge/-khynantoque-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khynantoque@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Khyn+Antoque;Full-stack+engineer+%26+founder;Next.js+%7C+FastAPI+%7C+RAG;Building+at+khynsoft.com)](https://khynsoft.com)
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=khynantoque&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Khynsoft-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/dev?id=5279535328944259736)
+**I design and ship web apps, APIs, and production AI systems you can actually run.**
 
-### 💼  Things that I'm currently working on: 
-* Learning Django :computer: REST Framework
-* Learning React.js, Tailwind, Material UI, Next.js 🌐
-* Learning Cybersecurity 🐱‍👤 on the side.
-* Looking forward to take a React Native :calling: course in future.
-* 🔜
+Davao City, Philippines · remote worldwide
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since I only have a part time job :earth_asia:, and I’m having lots of spare time :watch:, I decided to take this time focusing on feeding more knowledge :books: to myself. I set a couple of self-challenges in order to push myself more further. :running: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khyn_Antoque-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khynantoque)
+[![Website](https://img.shields.io/badge/Website-khynsoft.com-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://khynsoft.com)
+[![Email](https://img.shields.io/badge/Email-khynantoque@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khynantoque@gmail.com)
+[![Play Store](https://img.shields.io/badge/Play_Store-Khynsoft-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=5279535328944259736)
 
-* Learn to code :man_technologist: 6-8 hours a day with no distraction ( One or two day off a week. ) 
-* Read :newspaper: Dev and UI articles daily 
-* Workout :weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment :skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
+![Profile views](https://komarev.com/ghpvc/?username=khynantoque&style=for-the-badge&color=0A66C2)
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/khynantoque?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Khyn's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=khynantoque&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+</div>
+
+---
+
+### What I build
+
+- **Product & platform apps** — Next.js / React frontends with FastAPI backends  
+- **APIs at scale** — REST, Auth0/JWT, PostgreSQL (Redis when it earns its place)  
+- **AI systems** — RAG assistants & hybrid bots ([live demos](https://khynsoft.com/work))  
+- **Delivery** — Docker, GitHub Actions, pytest / Playwright, Prometheus & Grafana  
+
+Open to **client work through [Khynsoft](https://khynsoft.com)** and interesting **engineering roles**.
+
+---
+
+### Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,postgres,redis,docker,githubactions,git,vercel,tailwind&perline=7" alt="Skills" />
   </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://4.bp.blogspot.com/-lVXtixJIOWg/VgsYeEaJRHI/AAAAAAAACGI/XBQJzlNDOLg/s1600/logo_android_studio_512dp.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-xml-file-2330558-1950399.png" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-
 </p>
+
+**Languages** · TypeScript · JavaScript · Python · SQL  
+**Frontend** · React · Next.js · Vite · Redux · Tailwind · Storybook · Canvas 2D  
+**Backend** · FastAPI · PostgreSQL · MongoDB · Redis · Celery · Auth0 · JWT  
+**Quality & ops** · pytest · Playwright · Vitest · Docker · GitHub Actions · Prometheus · Grafana  
+
+---
+
+### GitHub metrics
+
+<div align="center">
+
+<a href="https://github.com/khynantoque">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khynantoque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+</a>
+<a href="https://github.com/khynantoque">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khynantoque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</a>
+
 <br/>
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=khynantoque&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khynantoque&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/khynantoque)
+
+<br/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=khynantoque&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### Focus right now
+
+- Shipping **Khynsoft** — studio site, live AI demos, and client systems  
+- Deepening **RAG / LangChain** patterns that stay grounded in real documents  
+- Keeping **CI/CD, tests, and observability** first-class—not bolted on later  
+
+---
+
+<details>
+<summary><b>Optional: contribution snake animation</b> (enable once in your profile repo)</summary>
+
+<br/>
+
+Add a GitHub Action in `khynantoque/khynantoque` that generates the snake, then uncomment:
+
+```md
+![Snake animation](https://raw.githubusercontent.com/khynantoque/khynantoque/output/github-contribution-grid-snake.svg)
+```
+
+Workflow template: [Platane/snk](https://github.com/Platane/snk)
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random engineering quote" />
+
+<br/><br/>
+
+Thanks for stopping by — connect on [LinkedIn](https://www.linkedin.com/in/khynantoque) or visit [khynsoft.com](https://khynsoft.com).
+
+</div>
