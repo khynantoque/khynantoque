@@ -80,20 +80,7 @@ Open to **client work through [Khynsoft](https://khynsoft.com)** and interesting
 
 ---
 
-<details>
-<summary><b>Optional: contribution snake animation</b> (enable once in your profile repo)</summary>
-
-<br/>
-
-Add a GitHub Action in `khynantoque/khynantoque` that generates the snake, then uncomment:
-
-```md
 ![Snake animation](https://raw.githubusercontent.com/khynantoque/khynantoque/output/github-contribution-grid-snake.svg)
-```
-
-Workflow template: [Platane/snk](https://github.com/Platane/snk)
-
-</details>
 
 ---
 
