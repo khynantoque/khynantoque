@@ -48,25 +48,9 @@ Open to **client work through [Khynsoft](https://khynsoft.com)** and interesting
 ### GitHub metrics
 
 <div align="center">
-
-<a href="https://github.com/khynantoque">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=khynantoque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
-</a>
-<a href="https://github.com/khynantoque">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khynantoque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-</a>
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=khynantoque&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khynantoque&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity)](https://github.com/khynantoque)
-
-<br/>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=khynantoque&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
